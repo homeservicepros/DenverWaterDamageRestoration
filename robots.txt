@@ -2,7 +2,7 @@ User-agent: *
 Allow: /
 
 # Performance optimization
-Sitemap: https://denver-water-damage-restoration.netlify.app/sitemap.xml
+Sitemap: https://restoration.servicesdenverco.com/sitemap.xml
 
 # Block common bot traps
 Disallow: /cgi-bin/
